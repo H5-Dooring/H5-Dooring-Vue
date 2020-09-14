@@ -276,5 +276,5 @@ yarn run start
 正在升级1.3版本，敬请期待...
 
 ## 技术反馈和交流
-<img src="http://io.nainor.com/uploads/WechatIMG107_1748aa204e7.jpeg" width=130 />
+<img src="http://io.nainor.com/uploads/WechatIMG107_1748aa204e7.jpeg" width=180 />
 
