@@ -31,7 +31,7 @@ Give a ⭐️ if this project helped you!
 * **Vuex** 主流的react应用状态管理工具，基于redux
 * **less** css预编译语言，轻松编写结构化分明的css
 * **vue-cli4** 基于vue的前端脚手架
-* **element ui** 地球人都知道vue组件库
+* **ant-design-vue** 地球人都知道vue组件库
 * **axios** 强大的前端请求库
 * **mand-mobile** 基于vue的移动端ui库，轻松实现美观的H5应用
 * **koa** 基于nodejs的上一代开发框架，轻松实现基于nodejs的后端开发
@@ -266,10 +266,6 @@ yarn install
 ```sh
 yarn run start
 ```
-
-## 更新日志
-1. 添加在线编程模块（在执行代码前先启动node服务 npm run server）
-2. 添加客服机器人模块[chatbot-antd](https://www.npmjs.com/package/chatbot-antd)
 
 
 ## 持续升级
