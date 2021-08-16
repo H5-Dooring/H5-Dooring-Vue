@@ -11,11 +11,9 @@
 
 > H5-Dooring是一款功能强大，开源免费的H5可视化页面配置解决方案，致力于提供一套简单方便、专业可靠、无限可能的H5落地页最佳实践。技术栈以react为主， 后台采用nodejs开发。
 
-### 🏠 [Homepage](http://io.nainor.com/h5_visible)
+### 🏠 [Homepage](http://h5.dooring.cn/)
 
-### ✨ [Demo](http://io.nainor.com/h5_plus/editor?tid=123456)
-
-<img src="http://io.nainor.com/uploads/bg_1745d84dbc4.png" alt="H5可视化编辑器" />
+### ✨ [Demo](http://h5.dooring.cn/)
 
 
 ## 🤝 Contributing
@@ -39,9 +37,7 @@ Give a ⭐️ if this project helped you!
 * **ramda** 优秀的函数式js工具库
 
 ## 需求分析
-在思考需求分析之前我们先来看看**Dooring**的使用演示：
-![](http://io.nainor.com/uploads/bg_1745d84dbc4.png)
-由上面的gif图我们可以分析出，可视化编辑器主要有以下几部分组成：
+可视化编辑器主要有以下几部分组成：
 * 可拖拽的组件库 draggable components
 * 盛放组件的画布 canvas
 * 组件编辑器 FormEditor
